@@ -46,7 +46,7 @@
 <img align="left" alt="git" width="50" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 <img align="left" alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="left" alt="javascript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="linux" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 <img align="left" alt="mongodb" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="mssql" width="50" height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
@@ -60,7 +60,7 @@
 <img align="left" alt="redux" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
 <img align="left" alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 <img align="left" alt="unity" width="50" height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
-<img align="left" alt="vuejs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/>
+<img align="left" alt="vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/>
 </br>
 
 #
