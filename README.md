@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markeddy001&label=Profile%20views&color=0e75b6&style=flat" alt="markeddy001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markeddy001" alt="markeddy001" /></a> </p>
