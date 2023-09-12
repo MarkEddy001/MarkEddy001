@@ -1,5 +1,6 @@
+![logo] (https://github.com/MarkEddy001/MarkEddy001/blob/main.Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Wanyoike Mark Edwards</h1>
-<h3 align="center">I'm a full-stack software developer, Cyber Security specialist, IT System Support Technician.</h3>
+<h3 align="center">I'm a full-stack software developer,Cyber Security Specialist, and IT System Support Technician.</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markeddy001&label=Profile%20views&color=0e75b6&style=flat" alt="markeddy001" /> </p>
