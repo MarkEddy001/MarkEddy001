@@ -34,7 +34,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="angular" width="50" style="padding-right:10px;"
+<img align="left" alt="angular" width="40" style="padding-right:10px;"
 src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 <img align="left" alt="angularjs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"/>
 <img align="left" alt="aws" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
