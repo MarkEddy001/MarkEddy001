@@ -34,7 +34,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="angular" width="40" height="40" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
+<img align="left" alt="angular" width="50" height="50" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 <img align="left" alt="angularjs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"/>
 <img align="left" alt="aws" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
