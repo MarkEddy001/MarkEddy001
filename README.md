@@ -12,6 +12,7 @@
 
  With a relentless pursuit of excellence, I'm constantly honing my skills to stay at the forefront of the tech industry. Let's collaborate and innovate together to shape a secure and connected digital future.
 
+---
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markeddy001&label=Profile%20views&color=0e75b6&style=flat" alt="markeddy001" /> </p>
