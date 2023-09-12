@@ -62,6 +62,7 @@ src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 <img align="left" alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 <img align="left" alt="unity" width="50" height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
 <img align="left" alt="vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/>
+
 </br>
 
 #
