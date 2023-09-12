@@ -72,3 +72,5 @@ src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markeddy001&show_icons=true&locale=en&layout=compact" alt="markeddy001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markeddy001&show_icons=true&locale=en" alt="markeddy001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markeddy001&" alt="markeddy001" /></p>
