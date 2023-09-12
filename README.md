@@ -64,8 +64,6 @@
 <br/>
 
 
-
----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markeddy001&show_icons=true&locale=en" alt="markeddy001" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markeddy001&show_icons=true&locale=en&layout=compact" alt="markeddy001" /></p>
