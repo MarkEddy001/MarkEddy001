@@ -69,8 +69,8 @@ src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarkEddy001&border_radius=4.6)](https://git.io/streak-stats)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markeddy001&show_icons=true&locale=en&layout=compact" alt="MarkEddy001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markeddy001&show_icons=true&locale=en" alt="MarkEddy001" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarkEddy001&border_radius=4.6)](https://git.io/streak-stats)
