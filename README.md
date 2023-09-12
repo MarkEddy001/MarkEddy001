@@ -1,4 +1,3 @@
-![logo] (https://github.com/MarkEddy001/MarkEddy001/blob/main.Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Wanyoike Mark Edwards</h1>
 <h3 align="center">I'm a full-stack software developer,Cyber Security Specialist, and IT System Support Technician.</h3>
 
