@@ -52,6 +52,7 @@
 <img align="left" alt="vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/>
 <br/>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markeddy001&show_icons=true&locale=en&layout=compact" alt="markeddy001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markeddy001&show_icons=true&locale=en" alt="markeddy001" /></p>
