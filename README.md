@@ -67,12 +67,6 @@ src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 <img align="left" alt="unity" width="50" height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
 <img align="left" alt="vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/> </a> </p>
 
-#
-
----
-
-</br>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fionag26&show_icons=true&locale=en&layout=compact" alt="MarkEddy001" /></p>
 
