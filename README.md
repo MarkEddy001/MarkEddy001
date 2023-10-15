@@ -68,13 +68,13 @@ src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 <img align="left" alt="vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/> </a> </p>
 
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkEddy001&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AymaneMehdi&theme=react )
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymaneMehdi&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarkEddy001&theme=react )
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarkEddy001&theme=react)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymaneMehdi&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymaneMehdi&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarkEddy001&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarkEddy001&theme=react&utcOffset=8)
 <br>
 #
 
