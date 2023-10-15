@@ -80,10 +80,3 @@ src="https://angular.io/assets/images/logos/angular/angular.svg"/>
 
 #
 
-</br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fionag26&show_icons=true&locale=en&layout=compact" alt="MarkEddy001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkEddy001&show_icons=true&locale=en" alt="MarkEddy001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkEddy001&" alt="MarkEddy001" /></p>
