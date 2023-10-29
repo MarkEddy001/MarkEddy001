@@ -1,7 +1,5 @@
 <!-- **MarkEddy001/MarkEddy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![JessecordHackingGIF (2)](https://github.com/MarkEddy001/MarkEddy001/assets/57659295/e9b3370f-6c10-4792-85e9-485842c72167)
-
 
 # 🏄‍♂️ Wanyoike Mark Edwards 😎
 
