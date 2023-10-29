@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markeddy001" alt="markeddy001" /></a> </p>
 
-- 💬 Ask me about **software development, cyber security, hacking, system support**
+- 💬 Ask me about **Software development, cyber security, hacking, system support**
 
 - 📫 How to reach me **markeddy254@gmail.com**
 
