@@ -13,7 +13,7 @@
 
  **`My third identity is as a Cybersecurity Specialist, where I dedicate myself to fortifying digital landscapes. My in-depth knowledge of security protocols, threat analysis, and risk mitigation allows me to safeguard systems, networks, and data against evolving cyber threats.`**
 
- With a relentless pursuit of excellence, I'm constantly honing my skills to stay at the forefront of the tech industry. Let's collaborate and innovate together to shape a secure and connected digital future.
+ **`With a relentless pursuit of excellence, I'm constantly honing my skills to stay at the forefront of the tech industry. Let's collaborate and innovate together to shape a secure and connected digital future.`**
 
 ---
 
