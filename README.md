@@ -1,7 +1,7 @@
 <!-- **MarkEddy001/MarkEddy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# **`🏄‍♂️ Wanyoike Mark Edwards 😎`**
+# **`🏄‍♂️ Wanyoike Mark Edwards😎`**
 
 **`Digital Craftsman (Full-stack Developer/Cyber Security Specialist/IT Support Technician)`**
 
