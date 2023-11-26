@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Full-stack Developer/Cyber Security Specialist/IT Support Technician)`**
 
-👨‍💻 FULL STACK | 🛠️ IT SYSTEM SUPPORT TECHNICIAN | 🔒 CYBER SECURITY SPECIALIST
+👨‍💻 FULL STACK ENGINEER | 🛠️ IT SYSTEM SUPPORT TECHNICIAN | 🔒 CYBER SECURITY SPECIALIST
 
   **`>> Passionate about the intersection of technology, security, and innovation, I'm a versatile professional with a multifaceted skill set. As a Full Stack Software Developer student, I craft elegant and efficient solutions for complex problems, leveraging my expertise in web development, database design, and user experience.`**
   
