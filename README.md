@@ -24,6 +24,7 @@
 - 💬 Ask me anything about: **`Software development, Cyber Security, Ethical Hacking, System Support`**
 
 - 📫 How to reach me **markeddy254@gmail.com**
+-  📫 How to reach me **https://www.linkedin.com/in/mark-edwards-9a5474171/**
 
 ---
 
