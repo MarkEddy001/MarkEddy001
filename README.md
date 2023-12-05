@@ -6,7 +6,7 @@
 
 👨‍💻 FULL STACK ENGINEER | 🛠️ IT SYSTEM SUPPORT TECHNICIAN | 🔒 CYBER SECURITY SPECIALIST
 
-  **` - Passionate about the intersection of technology, security, and innovation, I'm a versatile professional with a multifaceted skill set. As a Full Stack Software Developer student, I craft elegant and efficient solutions for complex problems, leveraging my expertise in web development, database design, and user experience.`**
+  **`Passionate about the intersection of technology, security, and innovation, I'm a versatile professional with a multifaceted skill set. As a Full Stack Software Developer student, I craft elegant and efficient solutions for complex problems, leveraging my expertise in web development, database design, and user experience.`**
   
   **`With a strong foundation as an IT System Support Technician, I excel in troubleshooting, system administration, and providing seamless technical support. I'm committed to maintaining peak operational performance for organizations, ensuring their technology functions flawlessly.`**
 
